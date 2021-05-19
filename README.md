@@ -15,6 +15,6 @@ Binary classification: [hippocorpus_binaryclass.ipynb](hippocorpus_binaryclass.i
 
 Naive Bayes: [hippocorpus_NB.ipynb](hippocorpus_NB.ipynb)
 
-LSTM: [NN_working.ipynb](RNN_working.ipynb)
+LSTM: [RNN_Working.ipynb](RNN_Working.ipynb)
 
 BERT: [Hippocorpus_BERT_Working_2.ipynb](Hippocorpus_BERT_Working_2.ipynb)
