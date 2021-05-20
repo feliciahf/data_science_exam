@@ -17,6 +17,6 @@ Naive Bayes: [hippocorpus_NB.ipynb](hippocorpus_NB.ipynb)
 
 LSTM: [RNN_Working.ipynb](RNN_Working.ipynb)
 
-BERT: [Copy_of_Hippocorpus_BERT_Working_2.ipynb](Copy_of_Hippocorpus_BERT_Working_2.ipynbb)
+BERT: [Copy_of_Hippocorpus_BERT_Working_2.ipynb](Copy_of_Hippocorpus_BERT_Working_2.ipynb)
 
 XG Boost Model: [XGBoost.ipynb](XGBoost.ipynb)
