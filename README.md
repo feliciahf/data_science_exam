@@ -19,4 +19,4 @@ Naive Bayes and SVM: [hippocorpus_NB_+_SVM.ipynb](hippocorpus_NB_+_SVM.ipynb)
 
 XG Boost Model: [XGBoost.ipynb](XGBoost.ipynb)
 
-Binary classification: [hippocorpus_binaryclass.ipynb](hippocorpus_binaryclass.ipynb) (including visualisations of data)
+Variable-based binary classification (logistic regression, ridge classifier, SGD classifier): [hippocorpus_binaryclass.ipynb](hippocorpus_binaryclass.ipynb) (including visualisations of data)
