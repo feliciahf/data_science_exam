@@ -9,15 +9,13 @@ Sap, M., Horvitz, E., Choi, Y., Smith, N.A., & Pennebaker, J. (2020). Recollecti
 
 ## Scripts
 
-Topic modeling: [hippocorpus_topicmodeling.ipynb](hippocorpus_topicmodeling.ipynb)
+Topic modeling: [hippocorpus_topicmodeling.ipynb](hippocorpus_topicmodeling.ipynb) (including original category word clouds)
 
 BERT: [Copy_of_Hippocorpus_BERT_Working_2.ipynb](Copy_of_Hippocorpus_BERT_Working_2.ipynb)
 
 LSTM: [RNN_Working.ipynb](RNN_Working.ipynb)
 
-Naive Bayes: [hippocorpus_NB_+_SVM.ipynb](hippocorpus_NB_+_SVM.ipynb)
-
-SVM: [hippocorpus_NB_+_SVM.ipynb](hippocorpus_NB_+_SVM.ipynb)
+Naive Bayes and SVM: [hippocorpus_NB_+_SVM.ipynb](hippocorpus_NB_+_SVM.ipynb)
 
 XG Boost Model: [XGBoost.ipynb](XGBoost.ipynb)
 
