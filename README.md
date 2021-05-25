@@ -1,7 +1,7 @@
 # Data Science Exam
 *by Felicia Heilgendorff and Martine Greve*
 
-In this project we built BERT, Naïve Bayes and LSTM models that classify stories either as remembered or imagined. We also built binary classification models that classify texts either as remembered or imagined based on external variables (not the story texts). Additionally, we did topic modeling on our texts.
+In this project we built text-based BERT, Naïve Bayes, LSTM and SVM models that classify stories either as remembered or imagined. We also built variable-based binary classification models that classify texts either as remembered or imagined based on external variables (not the story texts). Additionally, we performed topic modeling on our texts.
 
 Data is saved in [hippoCorpusV2.csv](hippoCorpusV2.csv) and was taken from:
 
@@ -9,14 +9,12 @@ Sap, M., Horvitz, E., Choi, Y., Smith, N.A., & Pennebaker, J. (2020). Recollecti
 
 ## Scripts
 
-Topic modeling: [hippocorpus_topicmodeling.ipynb](hippocorpus_topicmodeling.ipynb) (including original category word clouds)
+Topic modeling: [topicmodeling.ipynb](topicmodeling.ipynb) (including original category word clouds)
 
-BERT: [Copy_of_Hippocorpus_BERT_Working_2.ipynb](Copy_of_Hippocorpus_BERT_Working_2.ipynb)
+BERT: [BERT.ipynb](BERT.ipynb)
 
-LSTM: [RNN_Working.ipynb](RNN_Working.ipynb)
+LSTM: [LSTM.ipynb](LSTM.ipynb)
 
-Naive Bayes and SVM: [hippocorpus_NB_+_SVM.ipynb](hippocorpus_NB_+_SVM.ipynb)
+Naive Bayes and SVM: [NaiveBayes_SVM.ipynb](NaiveBayes_SVM.ipynb)
 
-XG Boost Model: [XGBoost.ipynb](XGBoost.ipynb)
-
-Variable-based binary classification (logistic regression, ridge classifier, SGD classifier): [hippocorpus_binaryclass.ipynb](hippocorpus_binaryclass.ipynb) (including visualisations of data)
+Variable-based binary classification (logistic regression, ridge classifier, SGD classifier): [variablebased_binary.ipynb](variablebased_binary.ipynb) (including visualisations of data)
