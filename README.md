@@ -11,7 +11,7 @@ Sap, M., Horvitz, E., Choi, Y., Smith, N.A., & Pennebaker, J. (2020). Recollecti
 
 Topic modeling: [topicmodeling.ipynb](topicmodeling.ipynb) (including original category word clouds)
 
-BERT: [BERT.ipynb](BERT.ipynb)
+BERT: [Hippocorpus_BERT.ipynb](Hippocorpus_BERT.ipynb)
 
 LSTM: [LSTM.ipynb](LSTM.ipynb)
 
